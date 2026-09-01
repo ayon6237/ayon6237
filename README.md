@@ -1,3 +1,7 @@
+
+<img width="3780" height="1890" alt="Ayon Banerjee&#39;s GitHub README Banner" src="https://github.com/user-attachments/assets/508b7b31-2d69-4094-ad3e-5853a5bd4c2c" />
+
+
 <h1 align="center">Hi 👋, I'm Ayon Banerjee</h1>
 <h3 align="center">Passionate Developer | Problem Solver | Lifelong Learner</h3>
 
